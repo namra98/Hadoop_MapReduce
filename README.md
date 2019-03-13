@@ -3,7 +3,7 @@
 Running Your First MapReduce in Hadoop & Java:
 
 Step 1: Download Code and Data 
-•	Download it from: 
+•	Download it from: https://github.com/namra98/Hadoop_MapReduce
 Step 2: Start Hadoop Cluster
 •	Start-all.cmd
 Step 3: Create an input directory in HDFS.
